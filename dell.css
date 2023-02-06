@@ -1,0 +1,27 @@
+body{
+    background: black;
+}
+main {
+  border: 50px;
+  background: rgb(26, 25, 25);
+  align-items: center;
+  width: 500px;
+  justify-content: space-around;
+  height: 500px;
+  
+}
+.logo{
+  justify-content: space-around;
+}
+h1{
+  justify-content: space-around;
+  background: rgb(255, 255, 255);
+  align-items: center;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  box-shadow: 10px 10px 10px 1px rgb(167, 150, 150);
