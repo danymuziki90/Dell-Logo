@@ -46,9 +46,6 @@ h1 {
   rotate: -45deg;
 }
 .cercle:hover{
-  
-
-}
-@keyframes {
-
+  cursor:pointer;
+  background-color: rgb(9, 9, 100);
 }
