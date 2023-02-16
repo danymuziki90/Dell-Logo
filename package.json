@@ -1,0 +1,23 @@
+{
+  "name": "dell-logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danymuziki90/Dell-Logo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danymuziki90/Dell-Logo/issues"
+  },
+  "homepage": "https://github.com/danymuziki90/Dell-Logo#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
